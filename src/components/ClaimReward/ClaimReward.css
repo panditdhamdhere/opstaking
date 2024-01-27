@@ -3,6 +3,7 @@
     margin-top: 0px;
     font-size: 12px;
     font: bold;
+    border-color: gray;
   }
   
   Button:hover {

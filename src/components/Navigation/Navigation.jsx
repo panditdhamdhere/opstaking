@@ -9,8 +9,11 @@ const Navigation = ()=>{
       <ClaimReward />
     </div>
     <div className="navbar-acc">
+      
       <ConnectedAccount />
       <ConnectedNetwork />
+      <h1 className="logo">OP Token-Staking</h1>
+
     </div>
   </header>
   )

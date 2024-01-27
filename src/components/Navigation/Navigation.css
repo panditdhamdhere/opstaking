@@ -54,3 +54,20 @@
   background-color: green;
   color: white;
 }
+
+.logo {
+  color: white;
+  padding: 8px;
+  border-radius: 8px;
+  font-size: 12px;
+  cursor: pointer;
+  color: crimson;
+  font: bolder;
+  font-size: 20px;
+  background-color: white;
+}
+
+.logo :hover {
+  background-color: cornflowerblue;
+  color: white;
+}
