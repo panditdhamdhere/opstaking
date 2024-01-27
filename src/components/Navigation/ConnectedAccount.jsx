@@ -5,7 +5,7 @@ const ConnectedAccount = ()=>{
     return (
         <div>
           <p className="connected-ac">
-            {selectedAccount ? selectedAccount : "Connect Account"}
+            {selectedAccount ? selectedAccount : "Account"}
           </p>
         </div>
       );
