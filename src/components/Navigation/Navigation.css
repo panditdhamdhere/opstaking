@@ -1,45 +1,56 @@
 .navbar {
-    width: 100%;
-    height: 80px;
-    padding: 36px;
-    display: flex;
-    flex-direction: row-reverse;
-    justify-content: space-between;
-    align-items: center;
-    background-color: gray;
-    border-bottom: 0.4px solid rgb(182, 182, 182);
-  }
-  .navbar-btns {
-    font-size: 10px !important;
-    display: flex;
-    flex-direction: row-reverse;
-  
-    justify-content: center;
-    align-items: center;
-    gap: 12px;
-  }
-  .navbar-acc {
-    font-size: 10px !important;
-    display: flex;
-    flex-direction: row-reverse;
-  
-    justify-content: center;
-    align-items: center;
-    gap: 12px;
-  }
-  
-  /* connected account */
-  .connected-ac {
-    background-color: white;
-    padding: 8px;
-    border-radius: 8px;
-    font-size: 12px;
-  }
-  /* connected network */
-  .network {
-    background-color: white;
-    padding: 8px;
-    border-radius: 8px;
-    font-size: 12px;
-  }
-  
+  width: 100%;
+  height: 80px;
+  padding: 36px;
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: space-between;
+  align-items: center;
+  background-color: gray;
+  border-bottom: 0.4px solid rgb(182, 182, 182);
+}
+.navbar-btns {
+  font-size: 10px !important;
+  display: flex;
+  flex-direction: row-reverse;
+  font: bolder;
+  justify-content: center;
+  align-items: center;
+  gap: 12px;
+}
+.navbar-acc {
+  font-size: 10px !important;
+  display: flex;
+  flex-direction: row-reverse;
+
+  justify-content: center;
+  align-items: center;
+  gap: 12px;
+}
+
+/* connected account */
+.connected-ac {
+  background-color: rgb(224, 22, 22);
+  color: white;
+  padding: 8px;
+  border-radius: 8px;
+  font-size: 12px;
+}
+/* connected network */
+.network {
+  background-color: rgb(224, 22, 22);
+  color: white;
+  padding: 8px;
+  border-radius: 8px;
+  font-size: 12px;
+}
+
+.network:hover {
+  background-color: green;
+  color: white;
+}
+
+.connected-ac:hover {
+  background-color: green;
+  color: white;
+}
