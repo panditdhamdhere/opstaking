@@ -2,8 +2,8 @@
 
 The Op tokenStaking is a decentralized application that enables users to stake ERC20 tokens into the platform and earn rewards. The staking process generates reward tokens per hour, this dapp rewarding users based on their staked amount and duration.
 
-![staked screenshot](staking.png)
-![withdraw screenshot](withdraw.png)
+![staked screenshot](https://drive.google.com/file/d/1A6jB7rSrgt_XbtiWv41T1wZQ02REB2z0/view?usp=sharing)
+![withdraw screenshot](https://drive.google.com/file/d/14ApHWq5amtoIN4KwsZBytYsH9U23uDjy/view?usp=sharing)
 
 # Key Tokens
 
